@@ -1,0 +1,12 @@
+.vs/
+report.log
+.idea/
+/.settings/
+/.project
+.DS_Store
+
+# python
+__pycache__/
+.venv/
+PythonPackages/
+-*
